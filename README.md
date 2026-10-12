@@ -1,4 +1,4 @@
-Copyright (c) 2026 Liam
+Copyright (c) 2026 Fa1dz
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 # FamilySearch-Tree-Exporter
