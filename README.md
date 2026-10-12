@@ -15,4 +15,3 @@ A Chrome extension that lets you export your currently open FamilySearch family 
 
 - Marriage dates and places aren’t included, only birth and death.
 - It reaches at most 8 generations back.
-- FamilySearch can change how its page and API work. If you get “No person cards found” or an HTTP error, send me the HTML of one person card (right-click a card, then Inspect, then Copy outerHTML) and the exact error text, and I’ll fix the selectors. Ticking “Ignore page filter” exports everything the ancestry data returns, which is a quick way to test whether the data part works.
